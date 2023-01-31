@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* @tailwind bottons;
+@tailwind form; */
+
+@import 'bottons.scc';
+@import 'forms.scc';
